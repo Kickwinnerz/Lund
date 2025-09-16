@@ -74,7 +74,7 @@ def menu():
     print '                                              \033[107;1m version :0.1\033[00;1m'
     print '\x1b[1;93mAUTHOR   : \x1b[1;92m DEVI'                                           
     print '\x1b[1;93mFACEBOOK : \x1b[1;92mSYSTEM KI MKC'
-    print '\x1b[1;93mGITHUB   : \x1b[1;92m
+    print '\x1b[1;93mGITHUB   : \x1b[1;92m Lolo'
     print ''
     print '\x1b[1;97m============================================'
     print '\x1b[1;91m[1]  \x1b[1;93mGP'
